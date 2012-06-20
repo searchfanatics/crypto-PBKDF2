@@ -1,6 +1,6 @@
 {
   "name": "crypto-pbkdf2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Jeff Mott",
   "description": "CryptoJS' PBKDF2 rollup as a stand-alone npm package. Managed by David Murdoch",
   "homepage": "https://github.com/davidmurdoch/crypto-PBKDF2",
