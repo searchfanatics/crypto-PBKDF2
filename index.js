@@ -1,1 +1,1 @@
-exports = require("./lib/pbkdf2");
+exports = module.exports = require("./lib/pbkdf2");
